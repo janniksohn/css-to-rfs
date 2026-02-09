@@ -2,9 +2,12 @@
   "name": "css-to-rfs",
   "displayName": "css-to-rfs",
   "description": "Convert CSS declarations to their RFS representation and back",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.109.0"
+  },
+  "repository": {
+    "url": "https://github.com/janniksohn/css-to-rfs"
   },
   "categories": [
     "Other"
